@@ -4,6 +4,7 @@ public class first_time {
         int i =10;
         int j = 10;
         System.out.println(i+j);
+        // This is java comment out system
     }
 }
 
