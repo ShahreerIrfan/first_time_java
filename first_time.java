@@ -32,3 +32,4 @@ public class first_time {
     }
 }
 // After windows
+// Javascript and java are not same language
