@@ -5,7 +5,7 @@ public class first_time {
         int j = 10;
         System.out.println(i+j);
         for( i = 0; i<10;i++){
-            System.out.println(i);
+            System.out.print(i);
         }
         int n =10;
         if(n<11){
@@ -33,4 +33,4 @@ public class first_time {
 }
 // After windows
 // Javascript and java are not same language
-// 
+// fds
