@@ -5,7 +5,7 @@ public class user_input {
         int number;
         System.out.print("Enter a number:" );
         number = input.nextInt();
-        System.out.print("Number is:"+number);
+        System.out.print("Number is:"+number+"\n");
 
         char ch;
         System.out.print("Enter a character :");
