@@ -1,6 +1,6 @@
 package oop_method;
 
-
+ 
 public class Oop_method {
         String name,gender;
         int phone;
