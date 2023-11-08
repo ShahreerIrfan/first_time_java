@@ -7,4 +7,3 @@ public class B {
         ob.display4();
     }
 }
-
