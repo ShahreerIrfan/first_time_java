@@ -14,7 +14,7 @@ public class first_time {
         else{
             System.out.println("This condition is false");
         }
-        
+        // local variable
         int x = 10;
         int flag  = 0;
         for(i = 1 ;i<=10;i++){
